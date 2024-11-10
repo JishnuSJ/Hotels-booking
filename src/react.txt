@@ -1,0 +1,7 @@
+react
+D:\reactn\my-app>
+npm start             =for stating the site
+
+compounts= statefull compounds,stateless compound
+
+home.js njan create chyrth athill js code write then import and div use to read in the app.js "the app.js is impoirted and run on the index.js

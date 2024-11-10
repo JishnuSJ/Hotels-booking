@@ -1,0 +1,20 @@
+.featured{
+    box-shadow: 0 4px 8px rgba(68, 19, 232, 0.945);
+    position: relative;
+    
+}
+.featuredItem{
+    
+    color: white;
+    border-radius: 10px;
+    height: 650px;
+    
+    
+    
+}
+.featuredImage{
+    width: 600px;
+    object-fit: cover;
+    
+
+}

@@ -1,0 +1,33 @@
+
+.pListImg{
+    width: 600px;
+    height: 700px;
+    object-fit: cover;
+} 
+.tourist-images {
+    margin-top: 20px;
+  }
+  
+  .images-container {
+    display: flex;
+    gap: 20px;
+  }
+  
+  .imagecard {
+    text-align: center;
+    box-shadow: 0 4px 8px rgba(237, 23, 23, 0.973);
+    position: relative;
+  }
+  .bus{
+    text-align:center;
+  }
+  .Train{
+    text-align:center;
+  }
+  .Train{
+    text-align:center;
+  }
+  .flight{
+    text-align:center;
+  }
+  
